@@ -59,7 +59,7 @@ One of the main challenges was making the movement and camera feel smooth and ea
 
 ## Future Improvements
 
-If I continued this project, I would improve the character presentation, refine the level design, make the movement feel even better, and add more polish to the UI and gameplay. I would also spend more time improving the visual side of the game so it feels more finished overall.
+If I continued this project, I would improve the character camera control, refine the levels, make the movement feel even better, and add more polish to the UI and gameplay. I would also spend more time improving the visual side of the game so it feels more finished overall.
 
 ## Summary
 
